@@ -21,7 +21,11 @@ Create a new React Native or Expo project using the following commands:
   <TabItem value="React Native">
 
 ```bash
-npx react-native@latest init MyProject
+npx @react-native-community/cli init
+```
+
+```bash
+npx react-native@latest init MyProject (Deprecated)
 ```
 
   </TabItem>
@@ -30,6 +34,7 @@ npx react-native@latest init MyProject
 ```bash
 npx create-expo-app devexpo --template
 ```
+<img width="421" alt="image" src="https://github.com/user-attachments/assets/2dc66b13-f779-46e5-bbd4-7f9cc424da8e" />
 
   </TabItem>
 </Tabs>
